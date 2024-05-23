@@ -5,6 +5,15 @@ Building your own trading bot can be a ton of fun - but also pretty intimidating
 
 This repo is a companion to my blog series on how to [Build Your Own Trading Bot](https://tradeoxy.com/blog/), part of [TradeOxy](https://tradeoxy.com/).
 
+## Join Our Community
+We love connecting with our audience! Join us on the following links:
+1. Discord: https://discord.gg/wNYYGaMGfd
+2. Telegram: https://t.me/TradeOxySupportBot
+3. TradeOxy Platform: https://www.tradeoxy.com/
+4. Upcoming Content: https://tradeoxy.notion.site/Content-Creation-Roadmap-5f896060f39341fd9539bcaced8c3b5d
+5. Upcoming Features: https://tradeoxy.notion.site/3f9666718dc24e38bbd4a56a741287ae?v=d810cfa006f54bafa4bbbe3674fefa98&pvs=74
+6. Custom Trading Bot development - https://tradeoxy.notion.site/Trading-Bot-Pricing-Guide-f0ff11b0604b4b998cba2b8da6a129cb?pvs=4
+
 ## Setting You Up for (Building) Success
 TradeOxy's mission is to **Democratize Algorithmic Trdaing**. It's been that way since we first started in [buildspace S4 Nights and Weekends](https://buildspace.so/nights-weekends). We feel that this repo, in companionship with your blog series, gives you the best chance at building your own successful trading algorithms. 
 
